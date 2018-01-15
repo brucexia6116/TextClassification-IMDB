@@ -1,0 +1,547 @@
+Epoch  1
+######### Vanilla Perceptron #########
+0.74196
+---------Positive words---------
+1   !   204.0
+2   excellent   121.0
+3   great   114.0
+4   both   106.0
+5   best   96.0
+6   wonderful   90.0
+7   well   87.0
+8   perfect   85.0
+9   job   83.0
+10   bit   81.0
+11   loved   78.0
+12   amazing   75.0
+13   favorite   71.0
+14   highly   71.0
+15   enjoyed   71.0
+16   may   69.0
+17   definitely   67.0
+18   especially   64.0
+19   it's   62.0
+20   each   62.0
+---------Negative words---------
+1   worst   -221.0
+2   waste   -159.0
+3   nothing   -133.0
+4   bad   -129.0
+5   poor   -128.0
+6   supposed   -109.0
+7   minutes   -104.0
+8   looks   -99.0
+9   original   -98.0
+10   awful   -98.0
+11   script   -96.0
+12   boring   -95.0
+13   poorly   -92.0
+14   worse   -91.0
+15   stupid   -85.0
+16   bad.   -77.0
+17   annoying   -77.0
+18   terrible   -73.0
+19   fails   -70.0
+20   money   -70.0
+None
+######### Average Perceptron #########
+0.83836
+---------Positive words---------
+1   !   231.25898964
+2   great   115.662653494
+3   best   89.8901643934
+4   excellent   82.6712531499
+5   both   63.731050758
+6   perfect   63.3597856086
+7   well   60.2149914003
+8   loved   60.0061197552
+9   enjoyed   59.4670213191
+10   wonderful   58.2061117555
+11   world   52.3213871445
+12   amazing   50.6480140794
+13   bit   48.5104595816
+14   beautiful   48.1327146914
+15   job   48.0803567857
+16   shows   47.9112435503
+17   especially   47.5254189832
+18   favorite   46.3425062997
+19   may   44.8337266509
+20   highly   44.5107395704
+---------Negative words---------
+1   worst   -150.533698652
+2   bad   -126.615855366
+3   waste   -95.363625455
+4   poor   -86.1915123395
+5   nothing   -81.0656373745
+6   script   -76.4748210072
+7   minutes   -72.8720851166
+8   supposed   -69.3653053878
+9   no   -67.4731410744
+10   stupid   -64.5287788488
+11   poorly   -62.9470021199
+12   awful   -62.6350145994
+13   any   -59.753049878
+14   looks   -59.1964321427
+15   worse   -58.6839326427
+16   acting   -57.3407463701
+17   even   -57.1863525459
+18   original   -56.0141594336
+19   least   -55.5027398904
+20   tries   -55.3792648294
+None
+Epoch  10
+######### Vanilla Perceptron #########
+0.861
+---------Positive words---------
+1   wonderfully   146.0
+2   7   143.0
+3   perfect   137.0
+4   excellent   136.0
+5   favorite   135.0
+6   subtle   134.0
+7   rare   129.0
+8   tony   124.0
+9   superb   120.0
+10   noir   119.0
+11   funniest   119.0
+12   captures   115.0
+13   wonderful   113.0
+14   today   113.0
+15   refreshing   111.0
+16   loved   110.0
+17   excellent.   109.0
+18   8   109.0
+19   7/10   108.0
+20   amazing.   108.0
+---------Negative words---------
+1   waste   -280.0
+2   worst   -272.0
+3   poorly   -223.0
+4   boring   -185.0
+5   fails   -172.0
+6   awful   -167.0
+7   annoying   -166.0
+8   disappointing   -163.0
+9   lame   -162.0
+10   dull   -158.0
+11   lacks   -158.0
+12   awful.   -155.0
+13   worse   -151.0
+14   pointless   -149.0
+15   badly   -147.0
+16   terrible.   -138.0
+17   bad.   -132.0
+18   mildly   -128.0
+19   save   -126.0
+20   wonder   -125.0
+None
+######### Average Perceptron #########
+0.87184
+---------Positive words---------
+1   excellent   132.173091308
+2   perfect   129.009719961
+3   favorite   114.623837505
+4   wonderful   105.268822925
+5   amazing   104.368666525
+6   loved   102.43741025
+7   subtle   97.5410458358
+8   easy   96.880244479
+9   7   95.4269462922
+10   wonderfully   93.8305446778
+11   rare   93.4064583742
+12   highly   92.8701045196
+13   superb   92.5653737385
+14   funniest   89.3294506822
+15   !   87.8333086668
+16   noir   85.9517801929
+17   tony   85.7079131683
+18   great   83.2553149787
+19   fantastic   82.4249903
+20   atmosphere   82.2411950352
+---------Negative words---------
+1   worst   -263.233195067
+2   waste   -236.813824745
+3   poorly   -177.462742149
+4   boring   -152.515793937
+5   awful   -147.63743745
+6   annoying   -142.744817021
+7   worse   -131.955460178
+8   fails   -128.30749077
+9   dull   -126.781268875
+10   lame   -126.491950032
+11   poor   -126.360674557
+12   disappointing   -115.51498994
+13   pointless   -115.232311071
+14   awful.   -114.955420178
+15   save   -111.94756421
+16   bad.   -110.989400042
+17   lacks   -110.147791409
+18   badly   -109.809128763
+19   supposed   -109.327154691
+20   nothing   -107.093547626
+None
+Epoch  50
+######### Vanilla Perceptron #########
+0.86184
+---------Positive words---------
+1   wonderfully   205.0
+2   7   175.0
+3   7/10   175.0
+4   refreshing   163.0
+5   rare   162.0
+6   perfect.   154.0
+7   subtle   153.0
+8   amazing.   146.0
+9   noir   145.0
+10   highly   142.0
+11   8   141.0
+12   perfect,   141.0
+13   delightful   137.0
+14   surprisingly   137.0
+15   funniest   137.0
+16   captures   136.0
+17   8/10   135.0
+18   excellent.   135.0
+19   excellent   132.0
+20   favorite   132.0
+---------Negative words---------
+1   poorly   -283.0
+2   worst   -277.0
+3   waste   -257.0
+4   awful.   -219.0
+5   fails   -209.0
+6   boring   -196.0
+7   disappointing   -194.0
+8   lacks   -183.0
+9   terrible.   -177.0
+10   annoying   -175.0
+11   lame   -175.0
+12   disappointment   -170.0
+13   4/10   -167.0
+14   dull   -163.0
+15   annoying.   -163.0
+16   pointless   -159.0
+17   mildly   -155.0
+18   weak   -153.0
+19   badly   -152.0
+20   worse   -151.0
+None
+######### Average Perceptron #########
+0.87072
+---------Positive words---------
+1   wonderfully   169.17520706
+2   7   152.196681443
+3   subtle   138.920216064
+4   rare   138.124217501
+5   7/10   134.585055532
+6   refreshing   132.403166877
+7   favorite   131.246076603
+8   perfect   129.970289624
+9   excellent   128.01228639
+10   funniest   127.514294789
+11   perfect.   122.003169597
+12   amazing.   121.786773771
+13   noir   121.472289222
+14   highly   120.42519006
+15   superb   119.219480624
+16   captures   118.910805671
+17   8   117.233929413
+18   delightful   116.61299711
+19   surprisingly   116.350866919
+20   perfect,   115.445820443
+---------Negative words---------
+1   worst   -261.073114342
+2   waste   -254.647729082
+3   poorly   -247.109740712
+4   awful.   -183.521884382
+5   fails   -183.515551588
+6   boring   -179.54996676
+7   disappointing   -169.688662649
+8   annoying   -166.260421392
+9   lame   -164.188684649
+10   lacks   -157.728749017
+11   terrible.   -151.710188232
+12   dull   -151.316256547
+13   awful   -146.654064277
+14   pointless   -146.19940944
+15   badly   -144.010875991
+16   worse   -139.669545864
+17   mildly   -137.53779397
+18   save   -135.177627858
+19   annoying.   -134.059311953
+20   disappointment   -128.608319513
+None
+Epoch  100
+######### Vanilla Perceptron #########
+0.8618
+---------Positive words---------
+1   wonderfully   204.0
+2   7/10   187.0
+3   7   182.0
+4   rare   171.0
+5   refreshing   169.0
+6   perfect.   162.0
+7   amazing.   153.0
+8   subtle   153.0
+9   noir   150.0
+10   excellent.   149.0
+11   perfect,   148.0
+12   highly   146.0
+13   favorite   145.0
+14   funniest   145.0
+15   surprisingly   145.0
+16   delightful   144.0
+17   8   143.0
+18   driven   142.0
+19   8/10   139.0
+20   captures   139.0
+---------Negative words---------
+1   poorly   -299.0
+2   worst   -272.0
+3   waste   -260.0
+4   awful.   -222.0
+5   fails   -215.0
+6   boring   -200.0
+7   disappointing   -192.0
+8   lacks   -190.0
+9   4/10   -182.0
+10   annoying   -181.0
+11   terrible.   -181.0
+12   lame   -176.0
+13   annoying.   -170.0
+14   disappointment   -167.0
+15   badly   -161.0
+16   weak   -160.0
+17   pointless   -159.0
+18   mildly   -159.0
+19   awful   -158.0
+20   />4/10   -158.0
+None
+######### Average Perceptron #########
+0.86888
+---------Positive words---------
+1   wonderfully   187.353508259
+2   7   164.304347878
+3   7/10   158.717192113
+4   rare   153.55055218
+5   refreshing   150.007567197
+6   subtle   147.055779578
+7   perfect.   140.869104052
+8   amazing.   136.818920472
+9   favorite   135.565694174
+10   noir   134.067814373
+11   funniest   133.955922418
+12   highly   133.913556435
+13   perfect,   130.863002855
+14   surprisingly   129.796802081
+15   delightful   129.406810637
+16   8   128.822674871
+17   excellent.   128.661680935
+18   captures   128.608276957
+19   excellent   127.283659487
+20   perfect   126.322878271
+---------Negative words---------
+1   poorly   -271.616953353
+2   worst   -267.187831925
+3   waste   -256.612563755
+4   awful.   -202.816231674
+5   fails   -197.003541999
+6   boring   -187.27468589
+7   disappointing   -180.153219539
+8   annoying   -174.561899775
+9   lacks   -172.55086818
+10   lame   -168.662439735
+11   terrible.   -164.458931816
+12   dull   -152.536237786
+13   pointless   -151.529675388
+14   4/10   -151.259747896
+15   annoying.   -149.816980473
+16   badly   -149.172060731
+17   disappointment   -148.836520465
+18   awful   -147.959170016
+19   mildly   -147.293637083
+20   worse   -142.783844486
+None
+Epoch  500
+######### Vanilla Perceptron #########
+0.86152
+---------Positive words---------
+1   wonderfully   204.0
+2   7/10   189.0
+3   7   182.0
+4   rare   170.0
+5   refreshing   169.0
+6   perfect.   162.0
+7   subtle   155.0
+8   amazing.   155.0
+9   noir   153.0
+10   excellent.   150.0
+11   highly   150.0
+12   perfect,   149.0
+13   funniest   147.0
+14   favorite   145.0
+15   8   145.0
+16   delightful   144.0
+17   surprisingly   144.0
+18   driven   142.0
+19   captures   139.0
+20   8/10   139.0
+---------Negative words---------
+1   poorly   -295.0
+2   worst   -268.0
+3   waste   -260.0
+4   awful.   -223.0
+5   fails   -220.0
+6   boring   -196.0
+7   disappointing   -193.0
+8   lacks   -189.0
+9   annoying   -183.0
+10   terrible.   -183.0
+11   4/10   -182.0
+12   lame   -180.0
+13   annoying.   -169.0
+14   disappointment   -167.0
+15   mildly   -162.0
+16   badly   -161.0
+17   weak   -161.0
+18   />4/10   -159.0
+19   awful   -159.0
+20   pointless   -157.0
+None
+######### Average Perceptron #########
+0.8634
+---------Positive words---------
+1   wonderfully   200.653595788
+2   7/10   182.926402966
+3   7   178.425748686
+4   rare   166.724300102
+5   refreshing   165.175108626
+6   perfect.   157.759826499
+7   subtle   153.386954289
+8   amazing.   151.332796293
+9   noir   149.167767907
+10   highly   146.75212114
+11   excellent.   145.733354741
+12   perfect,   145.348380772
+13   funniest   144.354489812
+14   favorite   143.111057991
+15   8   141.74458682
+16   surprisingly   141.154349508
+17   delightful   141.081361193
+18   driven   137.836504413
+19   captures   136.921654726
+20   8/10   135.987710161
+---------Negative words---------
+1   poorly   -290.363241731
+2   worst   -267.920497206
+3   waste   -259.296641896
+4   awful.   -218.944614484
+5   fails   -215.333305093
+6   boring   -194.297499656
+7   disappointing   -190.427265326
+8   lacks   -185.709263463
+9   annoying   -181.302037816
+10   terrible.   -179.24789982
+11   lame   -177.670687306
+12   4/10   -175.851947612
+13   annoying.   -165.168656627
+14   disappointment   -163.37551285
+15   mildly   -159.039211677
+16   badly   -158.62704235
+17   weak   -156.982464481
+18   awful   -156.717167303
+19   pointless   -155.936831285
+20   dull   -153.686866025
+None
+Epoch  1000
+######### Vanilla Perceptron #########
+0.86152
+---------Positive words---------
+1   wonderfully   204.0
+2   7/10   189.0
+3   7   182.0
+4   rare   170.0
+5   refreshing   169.0
+6   perfect.   162.0
+7   subtle   155.0
+8   amazing.   155.0
+9   noir   153.0
+10   excellent.   150.0
+11   highly   150.0
+12   perfect,   149.0
+13   funniest   147.0
+14   favorite   145.0
+15   8   145.0
+16   delightful   144.0
+17   surprisingly   144.0
+18   driven   142.0
+19   captures   139.0
+20   8/10   139.0
+---------Negative words---------
+1   poorly   -295.0
+2   worst   -268.0
+3   waste   -260.0
+4   awful.   -223.0
+5   fails   -220.0
+6   boring   -196.0
+7   disappointing   -193.0
+8   lacks   -189.0
+9   annoying   -183.0
+10   terrible.   -183.0
+11   4/10   -182.0
+12   lame   -180.0
+13   annoying.   -169.0
+14   disappointment   -167.0
+15   mildly   -162.0
+16   badly   -161.0
+17   weak   -161.0
+18   />4/10   -159.0
+19   awful   -159.0
+20   pointless   -157.0
+None
+######### Average Perceptron #########
+0.86296
+---------Positive words---------
+1   wonderfully   202.326797827
+2   7/10   185.963201361
+3   7   180.212874271
+4   rare   168.362149986
+5   refreshing   167.087554236
+6   perfect.   159.879913165
+7   subtle   154.193477112
+8   amazing.   153.166398073
+9   noir   151.083883877
+10   highly   148.376060505
+11   excellent.   147.866677285
+12   perfect,   147.174190313
+13   funniest   145.677244853
+14   favorite   144.055528958
+15   8   143.372293345
+16   surprisingly   142.577174697
+17   delightful   142.540680538
+18   driven   139.918252123
+19   captures   137.960827322
+20   8/10   137.49385502
+---------Negative words---------
+1   poorly   -292.681620773
+2   worst   -267.960248602
+3   waste   -259.648320934
+4   awful.   -220.972307161
+5   fails   -217.666652453
+6   boring   -195.148749794
+7   disappointing   -191.713632611
+8   lacks   -187.354631666
+9   annoying   -182.151018874
+10   terrible.   -181.123949835
+11   4/10   -178.925973683
+12   lame   -178.835343607
+13   annoying.   -167.084328237
+14   disappointment   -165.187756352
+15   mildly   -160.519605779
+16   badly   -159.813521127
+17   weak   -158.99123216
+18   awful   -157.858583606
+19   pointless   -156.468415621
+20   />4/10   -156.323928507
+None
+
